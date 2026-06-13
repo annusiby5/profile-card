@@ -109,6 +109,8 @@ body {
 }
 
 .role {
+    text-decoration: none;
+    color: inherit;
     margin-top: .2rem;
     display: inline-flex;
     align-items: center;
@@ -183,6 +185,8 @@ body {
 }
 
 .stat {
+    text-decoration: none;
+    color: inherit;
     background: rgba(255,255,255,.05);
     border: 1px solid rgba(255,255,255,.08);
     border-radius: 12px;
